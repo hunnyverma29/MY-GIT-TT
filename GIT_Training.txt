@@ -1,0 +1,16 @@
+https//:git-scm.com/download/win  <-- download link
+
+####################################
+github.com
+user
+pass
+
+
+git config --global user.name "name"
+git config --global user.email "email.id"
+git config --global core.editor vim
+git config --global merge.tool vimdiff
+
+
+Basic step need to practice 
+#####################################
